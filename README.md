@@ -1,4 +1,4 @@
-# Linear classifir
+# Linear classifier
 
 ## Details
 - Scalable number of features (test up to 3)
