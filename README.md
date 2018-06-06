@@ -1,7 +1,6 @@
 # Linear classifier
 
-*Disclamer*
-*This is a learning project which contains my narritive and was not refined. It's more of a story than production code.*
+*Disclamer: This is a learning project which contains my narritive and was not refined. It's more of a story than production code.*
 
 ## Details
 - Scalable number of features (test up to 3)
